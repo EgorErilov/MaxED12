@@ -1,2 +1,1 @@
-# MaxED12
-уч.
+# landingTest
